@@ -37,7 +37,7 @@ github_username:  rcortes100
 #vk_username: othersruff
 
 # Build settings
-theme: jekyll-theme-dinky
+theme: minima
 plugins:
   - jekyll-feed
 
