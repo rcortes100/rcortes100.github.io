@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Nueva entrada"
-date:   2019-12-21 20:24:29 -0600
+date:   2019-12-21 14:24:29 -0600
 categories: nueva entrada ideas 
 ---
 
