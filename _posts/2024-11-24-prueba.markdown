@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Algunas ideas sobre el post"
+date:   2024-11-24 13:00:00 -0600
+categories: idea mond categoría creativo 
+---
+
+Qué pasaría si hubiera una nueva idea, que no estoy preparado para utilizar. por ejemplo, me gustaría decir que blan bla bla.
+
+necesito una plantilla con markdown para hacer esto más sencillo.
+
+¿podré escribir desde el celular?
+
+$E=mc^2$
+

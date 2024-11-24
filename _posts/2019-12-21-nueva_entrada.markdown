@@ -6,3 +6,5 @@ categories: nueva entrada ideas
 ---
 
 Esta es una entrada nueva. LOL.
+
+Editado noviembre 2024.
