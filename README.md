@@ -3,6 +3,7 @@ Ricardo Adan's personal website
 
 Pendings list:
 
+- MAKE LATEX WORK IN THE PAGE
 - Add blog entrances
 - Add personal photo
 - Add CV
