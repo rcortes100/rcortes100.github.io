@@ -20,7 +20,7 @@ gem "github-pages", "~> 203", group: :jekyll_plugins
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   # AGREGAMOS jektex PARA SOPORTE LATEX
-  gem "jektex"
+  # gem "jektex"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
