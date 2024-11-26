@@ -41,7 +41,7 @@ theme: minima
 plugins:
   - jekyll-feed
 # AGREGANDO jektex PARA SOPRTE LATEX
-  - jektex
+#  - jektex
 
 # Exclude from processing.
 # The following items will not be processed, by default.
