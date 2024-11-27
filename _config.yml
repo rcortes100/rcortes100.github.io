@@ -64,4 +64,4 @@ plugins:
 #   - vendor/ruby/
 #
 include:
-  - _layouts/base.html
+  - _includes/
