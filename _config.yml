@@ -63,6 +63,6 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 #
-include:
-  - _includes/
-  - _layouts/
+#include:
+#  - _includes/
+#  - _layouts/
