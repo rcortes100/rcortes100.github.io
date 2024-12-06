@@ -62,8 +62,8 @@ exclude:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-  - _includes/
-  - _layouts/
+#  - _includes/
+#  - _layouts/
 #
 #include:
 #  - _includes/
