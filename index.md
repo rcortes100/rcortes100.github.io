@@ -4,6 +4,7 @@
 
 layout: home
 ---
+After gemfile update
 
 Estamos en la rama cambiando_base
 
