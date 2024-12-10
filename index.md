@@ -4,8 +4,7 @@
 
 layout: home
 ---
-After gemfile update
-
+After branch merge
 Estamos en la rama cambiando_base
 
 IS THIS EVEN DOING ANYTHING?
