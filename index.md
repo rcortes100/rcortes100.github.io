@@ -4,11 +4,7 @@
 
 layout: home
 ---
-After branch merge
-Estamos en la rama cambiando_base
-
-IS THIS EVEN DOING ANYTHING?
-
+26 de marzo de 2025
 Latex:
 
 Some $\latex$ equations:
